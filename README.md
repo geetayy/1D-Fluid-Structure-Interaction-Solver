@@ -6,7 +6,7 @@ This project simulates a fluid-structure interaction (FSI) system, where a defor
 * Coupling mechanism: Enforces interaction between the fluid and the structure.
 
 ## 📜 Dependencies
-* This project is written in C++ and requires:
+This project is written in C++ and requires:
 * A C++ compiler (e.g., GCC, MinGW, Clang)
 * Python + Matplotlib for visualization
 ## ⚙️ Compilation & Execution
