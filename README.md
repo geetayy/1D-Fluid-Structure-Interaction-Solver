@@ -15,9 +15,7 @@ This project is written in C++ and requires:
 ### Run the Simulation
 ``./fsi_solver.exe``
 ## 📊 Visualization
-<p align="center">
-    <img src="fsi_simulation.gif" width="288" height="200" alt="turtleFSI_swim"/>
-</p>
+![](https://github.com/geetayy/1D-Fluid-Structure-Interaction-Solver/blob/main/fsi_simulation.gif)
 
 ## 🛠 Troubleshooting
 If the simulation is unstable or nan values appear:
